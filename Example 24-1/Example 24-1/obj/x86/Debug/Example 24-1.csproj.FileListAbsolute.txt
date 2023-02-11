@@ -1,0 +1,11 @@
+C:\Users\Server\Desktop\Example 24-1\Example 24-1\bin\Debug\Example 24-1.exe
+C:\Users\Server\Desktop\Example 24-1\Example 24-1\bin\Debug\Example 24-1.pdb
+C:\Users\Server\Desktop\Example 24-1\Example 24-1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Server\Desktop\Example 24-1\Example 24-1\obj\x86\Debug\Example_24_1.Form1.resources
+C:\Users\Server\Desktop\Example 24-1\Example 24-1\obj\x86\Debug\Example_24_1.Properties.Resources.resources
+C:\Users\Server\Desktop\Example 24-1\Example 24-1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Server\Desktop\Example 24-1\Example 24-1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Server\Desktop\Example 24-1\Example 24-1\obj\x86\Debug\Example 24-1.exe
+C:\Users\Server\Desktop\Example 24-1\Example 24-1\obj\x86\Debug\Example 24-1.pdb
+I:\کتابهای من\C#.NET\Example\Part24\Example 24-1\Example 24-1\obj\x86\Debug\Example 24-1.exe
+I:\کتابهای من\C#.NET\Example\Part24\Example 24-1\Example 24-1\obj\x86\Debug\Example 24-1.pdb
